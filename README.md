@@ -10,5 +10,5 @@
 - (🔵) BDFDscript
 - (🟣) Python
 ###### Voici un accès à mon portfolio pour en découvrir plus sur moi et avoir un avant goût de mes compétences !
-[Portfolio](https://linktr.ee/georges_5_off)
+[Portfolio](https://linktr.ee/mekygeorges/)
 
